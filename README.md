@@ -1,6 +1,6 @@
 # Water Methanol Injection Hill Climb
 
-![Game Screenshot](screenshot/GamePreview.png)
+![Game Screenshot](screenshots/GamePreview.png)
 
 Welcome to Water Methanol Injection Hill Climb! This is a quick demonstration game created to showcase the benefits of water/methanol injection and its most useful application for heat extraction in automotive engines.
 
